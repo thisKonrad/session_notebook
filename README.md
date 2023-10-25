@@ -1,1 +1,1 @@
-This my Notebook Session Repo
+This is my Notebook Session Repository
